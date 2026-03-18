@@ -1,6 +1,9 @@
 # Python
 **Ce dépôt regroupe un cours détaillé du langage de programmation Python.**
 
+> [!NOTE]
+> Le dépôt est en cours de création rien n'est terminé ! :) 
+
 
 ![le logo de python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
