@@ -17,3 +17,5 @@ Sa simplicité syntaxique permet de se concentrer sur la logique plutôt que sur
 - Listes et tableaux  
 
 
+> [!IMPORTANT]
+> Pour tester et développer du code Python il est recommandé d'utiliser un environnement de développement (IDE) et un interpréteur Python
