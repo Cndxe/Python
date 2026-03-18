@@ -1,7 +1,8 @@
 # Python
 **Ce dépôt regroupe un cours détaillé du langage de programmation Python.**
-![le logo de python](https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg)
 
+
+![le logo de python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
 ## 1. Introduction à Python
 
