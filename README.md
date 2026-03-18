@@ -3,7 +3,7 @@
 
 
 ---
-> [!NOTE]
+> [!WARNING]
 > Le dépôt est en cours de création rien n'est terminé ! :) 
 ---
 
