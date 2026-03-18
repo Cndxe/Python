@@ -1,6 +1,6 @@
 # Boucles For  
 
-Les boucles for sont utilisées pour itérer sur une liste ou une chaîne. 
+Les boucles for sont utilisées pour itérer sur une liste ou une chaîne de caractère. 
 
 ### Exemple  
 ```python  
