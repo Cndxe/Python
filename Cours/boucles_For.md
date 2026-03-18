@@ -23,3 +23,6 @@ for fruit in fruits:
 ```  
 ### Explication  
 Ici, la boucle for parcourt chaque élément de la liste "fruits" et l'imprime.
+
+> [!NOTE]
+> Le dépôt est en cours de création rien n'est terminé ! :) 
