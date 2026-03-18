@@ -5,3 +5,5 @@
 2. **Fonctions** : Utilisez les fonctions pour encapsuler le code afin de le réutiliser.
 3. **Boucles** : Employez des boucles pour exécuter des processus répétitifs.
 
+> [!NOTE]
+> Le dépôt est en cours de création rien n'est terminé ! :) 
